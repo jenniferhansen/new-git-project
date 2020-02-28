@@ -1,3 +1,3 @@
-# Just a try
+# My first steps
 
-A simple page to get to know some commands. I'm writing bullshit on this page :) 
+This is my first git project and I'm just doing my first steps. Nothing special.  
